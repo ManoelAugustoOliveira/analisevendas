@@ -36,10 +36,13 @@ st.write("""
     bem como disponibilizar a visualização de alguns indicadores listados abaixo.
     """)
 st.markdown('- Total de vendas por período.')
-st.markdown('- Total de vendas por Categoria/Sub-Categoria.')
-st.markdown('- Total de vendas por Estado/Cidade.')
-st.markdown('- Ticket médio.')
+st.markdown('- Total de pedidos recebidos.')
 st.markdown('- Total de clientes atendidos.')
+st.markdown('- Média mensal de faturamento')
+st.markdown('- Média de pedidos por cliente.')
+st.markdown('- Ticket médio.')
+st.markdown('- Total de vendas por categoria/sub-Categoria.')
+st.markdown('- Total de vendas por estado.')
 st.markdown('----')
 
 # ===================================================== Dashboard =====================================================#
